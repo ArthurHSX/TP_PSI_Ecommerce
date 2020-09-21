@@ -1,0 +1,15 @@
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.deps.json
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.runtimeconfig.json
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.runtimeconfig.dev.json
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.dll
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.pdb
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.AssemblyInfoInputs.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.AssemblyInfo.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.RazorAssemblyInfo.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.RazorAssemblyInfo.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.dll
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.pdb
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.genruntimeconfig.cache
