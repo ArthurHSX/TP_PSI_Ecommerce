@@ -15,6 +15,7 @@ namespace Ecommerce_PSI
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -27,7 +28,14 @@ namespace Ecommerce_PSI
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                app.UseStaticFiles();
+                app.UseMvc(routes =>
+                {
+                    routes.MapRoute(
+                        name: "Login", 
+                        template: "{controller=Home}/{action=Login}/{id?}"
+                    );
+                });
             });
         }
     }
