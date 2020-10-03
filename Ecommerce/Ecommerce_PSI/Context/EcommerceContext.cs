@@ -9,11 +9,22 @@ namespace Ecommerce.Context
         public EcommerceContext() : base()      
         {}
 
-        public DbSet<Usuario> Usuario { get; set; }
+        public EcommerceContext(DbContextOptions<EcommerceContext> opcoes) : base(opcoes) { }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=Ecommerce_PSI;Trusted_Connection=True;");
         }
+
+        #region [ Tables ]
+
+        public DbSet<Usuario> Usuario { get; set; }
+
+        #endregion
     }
 }
