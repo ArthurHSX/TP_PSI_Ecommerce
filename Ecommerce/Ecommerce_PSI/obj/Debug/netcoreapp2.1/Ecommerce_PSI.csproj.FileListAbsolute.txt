@@ -49,5 +49,4 @@ D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csproj.CopyComplete
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csproj.CoreCompileInputs.cache
-C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
