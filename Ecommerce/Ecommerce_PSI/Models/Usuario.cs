@@ -10,10 +10,10 @@ namespace Ecommerce.Models
         #region Propriedades
 
         public int ID { get; set; }
-        public int Nome { get; set; }
-        public int Username { get; set; }
-        public int Email { get; set; }
-        public virtual IList<Usuario> Usuarios { get; set; }
+        public string Nome { get; set; }
+        public string NomeUsuario { get; set; }
+        public string Email { get; set; }
+        public string Senha { get; set; }
 
         #endregion
 

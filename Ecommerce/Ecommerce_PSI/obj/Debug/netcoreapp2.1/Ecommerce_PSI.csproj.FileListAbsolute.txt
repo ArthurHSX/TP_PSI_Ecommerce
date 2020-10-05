@@ -13,3 +13,4 @@ D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.dll
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.pdb
 D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.genruntimeconfig.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csprojAssemblyReference.cache
