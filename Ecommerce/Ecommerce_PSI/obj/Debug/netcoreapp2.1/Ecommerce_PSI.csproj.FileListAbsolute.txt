@@ -42,3 +42,17 @@ C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\De
 C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Index.cshtml.g.cs
 C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\guste\Desktop\Faculdade\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.Views.dll
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\bin\Debug\netcoreapp2.1\Ecommerce_PSI.Views.pdb
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csprojAssemblyReference.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.TagHelpers.input.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.TagHelpers.output.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.RazorCoreGenerate.cache
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Index.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Login.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.RazorTargetAssemblyInfo.cs
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.Views.pdb
+D:\Visual Studio\TP_PSI_Ecommerce\Ecommerce\Ecommerce_PSI\obj\Debug\netcoreapp2.1\Ecommerce_PSI.csproj.CopyComplete
