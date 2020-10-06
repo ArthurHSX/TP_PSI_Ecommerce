@@ -36,3 +36,6 @@
 ehthumbs.db
 Thumbs.db
 *.cache
+*.v2
+*.assets
+*.sqllite
