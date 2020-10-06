@@ -1,10 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Ecommerce.Models;
+using Ecommerce_PSI.Models;
 
-namespace Ecommerce.Context
+namespace Ecommerce_PSI.Context
 {
     public class EcommerceContext : DbContext
     {
+        #region Tables
+
+        public DbSet<Usuario> Usuario { get; set; }
+
+        #endregion
+
         // Adicionar depois o nome do arquivo de conexão do BD no método base("nome...")
         public EcommerceContext() : base()      
         {}

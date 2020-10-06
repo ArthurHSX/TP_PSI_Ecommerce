@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Ecommerce_v2.Models;
+using Ecommerce_PSI.Models;
 
 namespace Ecommerce_v2.Controllers
 {

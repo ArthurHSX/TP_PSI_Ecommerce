@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Models
+namespace Ecommerce_PSI.Models
 {
     public class Usuario
     {
         #region Propriedades
 
         public int ID { get; set; }
-        public int Nome { get; set; }
-        public int Username { get; set; }
-        public int Email { get; set; }
-        public virtual IList<Usuario> Usuarios { get; set; }
+        public string Nome { get; set; }
+        public string Username { get; set; }
+        public string Email { get; set; }
+        public string Senha { get; set; }
 
-        #endregion
+    #endregion
 
-        #region Métodos
+    #region Métodos
 
-        public void ManterCadastro()
+    public void ManterCadastro()
         { 
             throw new Exception("Implemmentar método Salvar, Excluir");
         }
