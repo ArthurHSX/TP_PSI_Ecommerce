@@ -15,12 +15,12 @@ namespace Ecommerce_PSI.Models
         public string Email { get; set; }
         public string Senha { get; set; }
 
-    #endregion
+        #endregion
 
-    #region Métodos
+        #region Métodos
 
-    public void ManterCadastro()
-        { 
+        public void ManterCadastro()
+        {
             throw new Exception("Implemmentar método Salvar, Excluir");
         }
 
