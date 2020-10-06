@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj": {}
+    "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj": {
+    "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj",
         "projectName": "Ecommerce_v2",
-        "projectPath": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj",
-        "packagesPath": "C:\\Users\\guste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\obj\\",
+        "projectPath": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\Ecommerce_v2.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_v2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
