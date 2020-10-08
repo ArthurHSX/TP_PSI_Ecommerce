@@ -58,7 +58,7 @@ using Ecommerce_PSI;
             ");
             EndContext();
             BeginContext(341, 314, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f4b26b8606424f1489569ab8f1a7fbd3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9b2195e83c114b1497f6d21a40c5d359", async() => {
                 BeginContext(347, 301, true);
                 WriteLiteral(@"
                 <input type=""text"" id=""login"" class=""fadeIn second"" name=""login"" placeholder=""login"">
