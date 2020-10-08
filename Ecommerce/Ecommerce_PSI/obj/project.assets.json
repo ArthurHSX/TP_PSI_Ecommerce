@@ -12622,34 +12622,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\raphael.salomao\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\guste\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
+      "projectUniqueName": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
       "projectName": "Ecommerce_PSI",
-      "projectPath": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
-      "packagesPath": "C:\\Users\\raphael.salomao\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\obj\\",
+      "projectPath": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
+      "packagesPath": "C:\\Users\\guste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guste\\Desktop\\Faculdade\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\raphael.salomao\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\guste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://eridani:8081/repository/nuget-hosted/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
