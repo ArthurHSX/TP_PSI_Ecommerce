@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Ecommerce_PSI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Ecommerce_PSI.Models;
+using System.Diagnostics;
 
 namespace Ecommerce_PSI.Controllers
 {
@@ -20,7 +16,7 @@ namespace Ecommerce_PSI.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Login");
         }
 
         public IActionResult Privacy()

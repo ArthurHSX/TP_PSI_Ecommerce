@@ -1,27 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj": {}
+    "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj": {
+    "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
+        "projectUniqueName": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
         "projectName": "Ecommerce_PSI",
-        "projectPath": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\obj\\",
+        "projectPath": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\Ecommerce_PSI.csproj",
+        "packagesPath": "C:\\Users\\raphael.salomao\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\TP_PSI_Ecommerce\\Ecommerce\\Ecommerce_PSI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\raphael.salomao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://eridani:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +76,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
