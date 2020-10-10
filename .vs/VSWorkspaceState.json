@@ -1,8 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ecommerce"
+    "\\Ecommerce",
+    "\\Ecommerce\\Ecommerce_PSI",
+    "\\Ecommerce\\Ecommerce_PSI\\Controllers",
+    "\\Ecommerce\\Ecommerce_PSI\\obj",
+    "\\Ecommerce\\Ecommerce_PSI\\obj\\Debug",
+    "\\Ecommerce\\Ecommerce_PSI\\obj\\Debug\\netcoreapp2.1",
+    "\\Ecommerce\\Ecommerce_PSI\\obj\\Debug\\netcoreapp2.1\\Razor",
+    "\\Ecommerce\\Ecommerce_PSI\\obj\\Debug\\netcoreapp2.1\\Razor\\Views",
+    "\\Ecommerce\\Ecommerce_PSI\\obj\\Debug\\netcoreapp2.1\\Razor\\Views\\Home",
+    "\\Ecommerce\\Ecommerce_PSI\\Views"
   ],
-  "SelectedNode": "\\Ecommerce\\Ecommerce.sln",
+  "SelectedNode": "\\Ecommerce\\Ecommerce_PSI\\Views\\Login\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
