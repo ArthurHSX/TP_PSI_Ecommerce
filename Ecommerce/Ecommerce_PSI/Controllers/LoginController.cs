@@ -5,20 +5,12 @@ namespace Ecommerce_PSI.Controllers
 {
     public class LoginController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Login()
         {
-            //Usuario usuario = new Usuario()
-            //{
-            //    Username = "gustavo.caldeira",
-            //    Email = "gustavo.caldeira@sga.pucminas.br",
-            //    Nome = "Gustavo Caldeira",
-            //    Senha = "1234"
-            //};
-
-            //usuario.ManterCadastro(usuario);
-
-            //return View(usuario);
-
+            return View();
+        }
+        public IActionResult Cadastro()
+        {
             return View();
         }
     }

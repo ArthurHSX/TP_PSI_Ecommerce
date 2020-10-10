@@ -61,8 +61,12 @@ namespace Ecommerce_PSI
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Login}/{action=Index}/{id?}");
+                    name: "Cadastro",
+                    template: "{controller=Login}/{action=Cadastro}/{id?}");
+
+                routes.MapRoute(
+                    name: "Login",
+                    template: "{controller=Entrar}/{action=Login}/{id?}");
             });
         }
     }
